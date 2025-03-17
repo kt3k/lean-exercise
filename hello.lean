@@ -1,1 +1,1 @@
-def main:IO Unit:=IO.println "Hello, world!"
+#eval String.append "Hello, " "Lean!"
